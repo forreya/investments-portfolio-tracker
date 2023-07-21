@@ -1,7 +1,4 @@
-<h1 align="center">Investments Tracker
-<p align="center">
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
-</p>
+<h1 align="center">Investment Data Tracker
 
 <h4 align="center">A simple investments tracker that allow users to make informed financial decisions by creating real-time graphical visualizations based on stocks' performance. </h4>
 
@@ -11,7 +8,7 @@
 
 ---
 
-## 🕹️ Features
+## Features
 
 Overview of the key functionalities:
 
@@ -21,14 +18,14 @@ Overview of the key functionalities:
 
 ---
 
-## 📁 Usage
+## Usage
 
 1. **Zooming in** - Drag over an area on the graph to zoom into
 2. **Zooming out** - Double click to zoom back out
 
 ---
 
-## 💾 Installation
+## Installation
 
 _Note: Make sure you run all the following commands in the root of the project's folder._
 
@@ -54,7 +51,7 @@ This will install the necessary packages listed in the package.json file and run
 
 ---
 
-## 💻 Technologies
+## Technologies
 
 - [React](https://react.dev/)
 - [Plotly](https://plotly.com/javascript/react/)
