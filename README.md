@@ -1,4 +1,4 @@
-<h1 align="center">Investment Data Tracker
+<h1 align="center">Investments Data Tracker
 
 <h4 align="center">A simple investments tracker that allow users to make informed financial decisions by creating real-time graphical visualizations based on stocks' performance. </h4>
 
@@ -12,7 +12,7 @@
 
 Overview of the key functionalities:
 
-* Track value of your stock positions from the last 100 days (business days)
+* Track value of your stock positions from the last 100 business days
 * Graphical visualization of your respective stock
 * Zoom-in & zoom-out feature
 
