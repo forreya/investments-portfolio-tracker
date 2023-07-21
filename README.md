@@ -1,6 +1,6 @@
 <h1 align="center">Investments Data Tracker
 
-<h4 align="center">A simple investments tracker that allow users to make informed financial decisions by creating real-time graphical visualizations based on stocks' performance. </h4>
+<h4 align="center">A simple investments tracker that allow users to make informed financial decisions by creating real-time graphical visualizations based on a stock's performance. </h4>
 
 ---
 
